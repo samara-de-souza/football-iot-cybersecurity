@@ -30,3 +30,11 @@ Cinco vulnerabilidades foram identificadas, todas com risco médio na escala DRE
 | Detecção de incidentes reativa e terceirizada | 10 |
 | Fragilidade na autenticação por MFA condicional | 11 |
 | Incerteza jurídica na base legal adotada | 9 |
+
+![Matriz de Risco](images/risk_matriz.png)
+
+## Documentação
+
+[TCC completo](docs/) · [Modelo de ameaças](artifacts/threat-model.md) · [Avaliação de riscos](artifacts/risk-assessment.md) · [Security blueprint](artifacts/security-blueprint.md)
+
+**Autora:** Samara Monique Tavares de Souza, Ciência da Computação, PUCRS
